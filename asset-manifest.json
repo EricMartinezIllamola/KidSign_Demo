@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/KidSign_Demo/static/css/main.347f71b3.css",
-    "main.js": "/KidSign_Demo/static/js/main.d13d5b5a.js",
+    "main.js": "/KidSign_Demo/static/js/main.1473da90.js",
     "static/media/foto.jpg": "/KidSign_Demo/static/media/foto.965ae3c9d20bf491546f.jpg",
     "static/media/monitos.png": "/KidSign_Demo/static/media/monitos.c998d2a66eeeb7b5f989.png",
     "static/media/Alex_Cosme.jpg": "/KidSign_Demo/static/media/Alex_Cosme.28369594f1618511b277.jpg",
@@ -173,10 +173,10 @@
     "static/media/zapsplat_office_pen_4_colour_ball_point_down_on_table.mp3": "/KidSign_Demo/static/media/zapsplat_office_pen_4_colour_ball_point_down_on_table.3d4e94453a2bf7041fe3.mp3",
     "index.html": "/KidSign_Demo/index.html",
     "main.347f71b3.css.map": "/KidSign_Demo/static/css/main.347f71b3.css.map",
-    "main.d13d5b5a.js.map": "/KidSign_Demo/static/js/main.d13d5b5a.js.map"
+    "main.1473da90.js.map": "/KidSign_Demo/static/js/main.1473da90.js.map"
   },
   "entrypoints": [
     "static/css/main.347f71b3.css",
-    "static/js/main.d13d5b5a.js"
+    "static/js/main.1473da90.js"
   ]
 }
