@@ -1,29 +1,33 @@
 {
   "files": {
     "main.css": "/KidSign_Demo/static/css/main.b93416f7.css",
-    "main.js": "/KidSign_Demo/static/js/main.d77a3c66.js",
+    "main.js": "/KidSign_Demo/static/js/main.dedf76dd.js",
+    "static/media/7.PNG": "/KidSign_Demo/static/media/7.4d50e595346b404ed271.PNG",
     "static/media/foto.jpg": "/KidSign_Demo/static/media/foto.965ae3c9d20bf491546f.jpg",
     "static/media/monitos.png": "/KidSign_Demo/static/media/monitos.c998d2a66eeeb7b5f989.png",
     "static/media/Alex_Cosme.jpg": "/KidSign_Demo/static/media/Alex_Cosme.28369594f1618511b277.jpg",
+    "static/media/5.PNG": "/KidSign_Demo/static/media/5.4e6ced3d8481da5b09c9.PNG",
     "static/media/monitos.jpeg": "/KidSign_Demo/static/media/monitos.2d08aca45c60cda3afad.jpeg",
+    "static/media/1.PNG": "/KidSign_Demo/static/media/1.a8814160c31624f0cf99.PNG",
     "static/media/monosonriente.png": "/KidSign_Demo/static/media/monosonriente.03614c9322b43aec5111.png",
+    "static/media/6.PNG": "/KidSign_Demo/static/media/6.790cb81342852b68596f.PNG",
     "static/media/umbrella.jpg": "/KidSign_Demo/static/media/umbrella.311849f828e4a380116c.jpg",
-    "static/media/Juegomemory.jpg": "/KidSign_Demo/static/media/Juegomemory.18dfa92adfefa39002c7.jpg",
     "static/media/IMG_8058_Facetune_19-01-2019-19-13-59.jpg": "/KidSign_Demo/static/media/IMG_8058_Facetune_19-01-2019-19-13-59.2c6f449985631efbbca3.jpg",
     "static/media/jungle-1807476_640.jpg": "/KidSign_Demo/static/media/jungle-1807476_640.7f23612831939faab1e4.jpg",
+    "static/media/4.PNG": "/KidSign_Demo/static/media/4.c7e8bf2da48124f133c7.PNG",
     "static/media/monohojas.png": "/KidSign_Demo/static/media/monohojas.f72ed606874a6208e0f5.png",
-    "static/media/Juegomano.jpg": "/KidSign_Demo/static/media/Juegomano.06008da54470b425582d.jpg",
     "static/media/esm_8_bit_small_win_arcade_80s_simple_alert_notification_game.mp3": "/KidSign_Demo/static/media/esm_8_bit_small_win_arcade_80s_simple_alert_notification_game.2c49efef915a8ebc2670.mp3",
     "static/media/8.png": "/KidSign_Demo/static/media/8.1fcfc8252528f42cd476.png",
     "static/media/8B.png": "/KidSign_Demo/static/media/8B.4a455a170cc0b409924a.png",
     "static/media/eightsign.png": "/KidSign_Demo/static/media/eightsign.ac8560cd516706dab471.png",
-    "static/media/Jugadoresdos.jpg": "/KidSign_Demo/static/media/Jugadoresdos.6728b4a015153bb0c6e8.jpg",
     "static/media/monolengua.png": "/KidSign_Demo/static/media/monolengua.23ddf661f6364438bce6.png",
     "static/media/Monorama.png": "/KidSign_Demo/static/media/Monorama.829f44046f076ebcb9ea.png",
+    "static/media/3.PNG": "/KidSign_Demo/static/media/3.b8be0a8332f1c77fa9f7.PNG",
     "static/media/co.png": "/KidSign_Demo/static/media/co.a8e7efbbbec101089bcc.png",
     "static/media/KSlogo.png": "/KidSign_Demo/static/media/KSlogo.227f0a4372804c0ee393.png",
     "static/media/verdetrans.png": "/KidSign_Demo/static/media/verdetrans.227f0a4372804c0ee393.png",
     "static/media/monosentado.png": "/KidSign_Demo/static/media/monosentado.e9507d1d816561eabad4.png",
+    "static/media/2.PNG": "/KidSign_Demo/static/media/2.70586a16757c4128f085.PNG",
     "static/media/linkedin.png": "/KidSign_Demo/static/media/linkedin.7ab7f69ae322f5a4a1d5.png",
     "static/media/14B.png": "/KidSign_Demo/static/media/14B.613eeb8e15d6a1452a97.png",
     "static/media/4B.png": "/KidSign_Demo/static/media/4B.ebcb497dac4824b5c794.png",
@@ -32,7 +36,6 @@
     "static/media/9B.png": "/KidSign_Demo/static/media/9B.949b5f670fdb58047f27.png",
     "static/media/ninesign.png": "/KidSign_Demo/static/media/ninesign.9e081abe30d62e23f338.png",
     "static/media/numerosicon.png": "/KidSign_Demo/static/media/numerosicon.38688093f63172727639.png",
-    "static/media/SeccionLetras.jpg": "/KidSign_Demo/static/media/SeccionLetras.b31ded554dd0f33d7e54.jpg",
     "static/media/16B.png": "/KidSign_Demo/static/media/16B.4ebfb72a6a778734ae13.png",
     "static/media/6B.png": "/KidSign_Demo/static/media/6B.a242b84e1b58b3e21d63.png",
     "static/media/gsign.png": "/KidSign_Demo/static/media/gsign.973ab3e585c64e5a31a5.png",
@@ -129,7 +132,6 @@
     "static/media/bsign.png": "/KidSign_Demo/static/media/bsign.e0a167c062a0824c9b8a.png",
     "static/media/mujer.png": "/KidSign_Demo/static/media/mujer.b73a498d5b4b9444d486.png",
     "static/media/star.png": "/KidSign_Demo/static/media/star.4f31a42fdf59f16da17e.png",
-    "static/media/Jugadores.jpg": "/KidSign_Demo/static/media/Jugadores.239213a45b0ed94eec56.jpg",
     "static/media/dsign.png": "/KidSign_Demo/static/media/dsign.f48388d7fb2863a0097d.png",
     "static/media/aboutcohete.png": "/KidSign_Demo/static/media/aboutcohete.baff8a87232cc24d9874.png",
     "static/media/15.png": "/KidSign_Demo/static/media/15.9e30ceefad6cf28d97dd.png",
@@ -173,10 +175,10 @@
     "static/media/zapsplat_office_pen_4_colour_ball_point_down_on_table.mp3": "/KidSign_Demo/static/media/zapsplat_office_pen_4_colour_ball_point_down_on_table.3d4e94453a2bf7041fe3.mp3",
     "index.html": "/KidSign_Demo/index.html",
     "main.b93416f7.css.map": "/KidSign_Demo/static/css/main.b93416f7.css.map",
-    "main.d77a3c66.js.map": "/KidSign_Demo/static/js/main.d77a3c66.js.map"
+    "main.dedf76dd.js.map": "/KidSign_Demo/static/js/main.dedf76dd.js.map"
   },
   "entrypoints": [
     "static/css/main.b93416f7.css",
-    "static/js/main.d77a3c66.js"
+    "static/js/main.dedf76dd.js"
   ]
 }
